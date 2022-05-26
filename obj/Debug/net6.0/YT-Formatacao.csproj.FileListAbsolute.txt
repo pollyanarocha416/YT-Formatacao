@@ -1,0 +1,15 @@
+C:\Users\Usuário\Desktop\YT-Formatacao\bin\Debug\net6.0\YT-Formatacao.exe
+C:\Users\Usuário\Desktop\YT-Formatacao\bin\Debug\net6.0\YT-Formatacao.deps.json
+C:\Users\Usuário\Desktop\YT-Formatacao\bin\Debug\net6.0\YT-Formatacao.runtimeconfig.json
+C:\Users\Usuário\Desktop\YT-Formatacao\bin\Debug\net6.0\YT-Formatacao.dll
+C:\Users\Usuário\Desktop\YT-Formatacao\bin\Debug\net6.0\YT-Formatacao.pdb
+C:\Users\Usuário\Desktop\YT-Formatacao\obj\Debug\net6.0\YT-Formatacao.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\YT-Formatacao\obj\Debug\net6.0\YT-Formatacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\YT-Formatacao\obj\Debug\net6.0\YT-Formatacao.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\YT-Formatacao\obj\Debug\net6.0\YT-Formatacao.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\YT-Formatacao\obj\Debug\net6.0\YT-Formatacao.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\YT-Formatacao\obj\Debug\net6.0\YT-Formatacao.dll
+C:\Users\Usuário\Desktop\YT-Formatacao\obj\Debug\net6.0\refint\YT-Formatacao.dll
+C:\Users\Usuário\Desktop\YT-Formatacao\obj\Debug\net6.0\YT-Formatacao.pdb
+C:\Users\Usuário\Desktop\YT-Formatacao\obj\Debug\net6.0\YT-Formatacao.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\YT-Formatacao\obj\Debug\net6.0\ref\YT-Formatacao.dll
